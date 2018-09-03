@@ -25,6 +25,7 @@
 - [Lucene源码解读](https://github.com/77ircloud/share/blob/master/books/Lucene%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB.pdf)
 - [设计模式之禅秦小波著](https://github.com/77ircloud/share/blob/master/books/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E7%A6%85%E7%A7%A6%E5%B0%8F%E6%B3%A2%E8%91%97%EF%BC%88%E9%9D%9E%E6%89%AB%E6%8F%8F%E7%89%88%EF%BC%89.pdf)
 - [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/)
+- [JSR133中文版](JSR133中文版.pdf)
 
 ### Python
 - [Python 核心编程 第二版](https://wizardforcel.gitbooks.io/core-python-2e/content/)
