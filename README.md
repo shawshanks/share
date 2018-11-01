@@ -25,6 +25,7 @@
 - [Lucene源码解读](https://github.com/77ircloud/share/blob/master/books/Lucene%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB.pdf)
 - [设计模式之禅秦小波著](https://github.com/77ircloud/share/blob/master/books/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E7%A6%85%E7%A7%A6%E5%B0%8F%E6%B3%A2%E8%91%97%EF%BC%88%E9%9D%9E%E6%89%AB%E6%8F%8F%E7%89%88%EF%BC%89.pdf)
 - [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/)
+- [JSR133中文版](books/JSR133中文版.pdf)
 
 ### Python
 - [Python 核心编程 第二版](https://wizardforcel.gitbooks.io/core-python-2e/content/)
@@ -45,6 +46,7 @@
 - [计算机网络——自顶向下方法 英文版](https://github.com/77ircloud/share/blob/master/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%EF%BC%9A%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E6%96%B9%E6%B3%95%EF%BC%88%E7%AC%AC6%E7%89%88%E8%8B%B1%E6%96%87%E7%89%88%EF%BC%89.pdf)
 - [TCPIP详解 卷1协议](https://github.com/77ircloud/share/blob/master/books/TCPIP%E8%AF%A6%E8%A7%A3%20%E5%8D%B71%E5%8D%8F%E8%AE%AE.pdf)
 - [SSH: The Secure Shell - The Definitive Guide](http://openyoudao.org/_media/ssh_second_edition.pdf)
+- [HTTP2.0超文本传输协议中文版](books/HTTP2.0超文本传输协议中文版.pdf)
 
 ### 数据结构与算法
 - [算法 第4版 中文版](https://github.com/77ircloud/share/blob/master/books/Algorithms%20(4th%20Edition)%20(%E4%B8%AD%E6%96%87%E7%89%88)%20(Robert%20Sedgewick%20and%20Kevin%20Wayne).pdf)
