@@ -17,6 +17,9 @@
 - [前端架构设计](https://github.com/77ircloud/share/blob/master/books/%E5%89%8D%E7%AB%AF%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1.pdf)
 - [CSS Secrets（CSS揭秘 英文版）](https://github.com/77ircloud/share/blob/master/books/CSS-Secrets.pdf)
 
+### 全栈
+- [全栈应用开发：精益实践](https://growth.phodal.com/)
+
 
 ### Java
 - [Effectice Java第二版](https://github.com/77ircloud/share/blob/master/books/Effectice%20Java%E7%AC%AC%E4%BA%8C%E7%89%88.pdf)
