@@ -16,9 +16,19 @@
 - [You Dont Know JS （你不知道的JavaScript 英文版）](https://github.com/getify/You-Dont-Know-JS)
 - [前端架构设计](https://github.com/77ircloud/share/blob/master/books/%E5%89%8D%E7%AB%AF%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1.pdf)
 - [CSS Secrets（CSS揭秘 英文版）](https://github.com/77ircloud/share/blob/master/books/CSS-Secrets.pdf)
+- [深入浅出 Webpack](http://webpack.wuhaolin.cn/)
+- [Front-end Developer Handbook 2019 （英文）](https://frontendmasters.com/books/front-end-handbook/2019/)
+- [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/#why)
+- [TypeScript Deep Dive（英文）](https://basarat.gitbooks.io/typescript/content/docs/getting-started.html)
 
 ### 全栈
 - [全栈应用开发：精益实践](https://growth.phodal.com/)
+- [Docker — 从入门到实践](https://yeasy.gitbooks.io/docker_practice/)
+- [Node.js 调试指南](https://github.com/nswbmw/node-in-debugging)
+- [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
+
+### 移动端
+- [Beginning iOS 12 Programming with Swift（英文）](https://www.appcoda.com/learnswift/)
 
 
 ### Java
@@ -33,6 +43,7 @@
 ### Python
 - [Python 核心编程 第二版](https://wizardforcel.gitbooks.io/core-python-2e/content/)
 - [Python 量化交易教程](https://wizardforcel.gitbooks.io/python-quant-uqer/content/)
+- [Python3网络爬虫开发实战](https://python3webspider.cuiqingcai.com/)
 
 ### 基础
 - [操作系统原理 第9版（Operating System Concepts 9th Edition）](https://github.com/77ircloud/share/blob/master/books/Operating%20System%20Concepts%209th%20Edition.pdf)
@@ -90,10 +101,14 @@
 - [高级Bash脚本编程指南 Revision 10中文版](https://linuxstory.gitbooks.io/advanced-bash-scripting-guide-in-chinese/content/)
 
 
-### 架构
-- [software-architecture-patterns](https://github.com/77ircloud/share/blob/master/books/software-architecture-patterns.pdf)
-
 ### 软件工程
+- [software-architecture-patterns](https://github.com/77ircloud/share/blob/master/books/software-architecture-patterns.pdf)
+- [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
+- [程序设计思想与方法](https://wizardforcel.gitbooks.io/sjtu-cs902-courseware/content/)
 - [人月神话](https://github.com/77ircloud/share/blob/master/books/%E4%BA%BA%E6%9C%88%E7%A5%9E%E8%AF%9D.pdf)
+
+### 效率
+- [EffectiveMac](https://mac.bestswifter.com/)
+
 
 
